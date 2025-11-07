@@ -3,7 +3,7 @@
 ### BigQuery Result
 <img width="1208" height="699" alt="Screenshot 2025-11-04 at 01 45 13" src="https://github.com/user-attachments/assets/9d484405-e534-4601-986c-d35a8d839561" />
 
-### AI Execution
+### Execution
 
 <img width="1330" height="414" alt="Screenshot 2025-11-04 at 01 47 55" src="https://github.com/user-attachments/assets/97ada7c1-a732-463e-a6b7-b40ddac0c260" />
 
